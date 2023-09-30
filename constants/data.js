@@ -103,7 +103,8 @@ const userData = {
       desc: "Desarrollador web, esta vez usando tecnologias como PHP y frameworks como laravel.",
     },
   ],
-  resumeUrl: "",
+  resumeUrl:
+    "https://drive.google.com/file/d/1UGFt9mEkOJNkk8u7lo_aYHKLrvajK3k7/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/tomigonnzalez1/?hl=es",
     linkedin: "https://www.linkedin.com/in/tomigonzalez",
