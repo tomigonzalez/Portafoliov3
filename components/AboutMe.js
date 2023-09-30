@@ -57,7 +57,10 @@ export default function AboutMe() {
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
                 >
                   CV
-                </a>{" "}
+                </a>
+                {
+                  "https://drive.google.com/file/d/1UGFt9mEkOJNkk8u7lo_aYHKLrvajK3k7/view?usp=sharing"
+                }
                 and I'd love to work for you.
               </p>
             </div>
