@@ -50,20 +50,20 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software developer who loves creating beautiful products and websites.",
+      "Soy desarrollador de software me encanta crear productos y sitios web atractivos.",
     description: [
-      "Hello, I m Tomás González! At 23 years old, I am a passionate web developer specialized in Front-end with React. My journey in the world of programming began as a self-taught person, and since then, I have been in constant search for knowledge and challenges.",
+      "Hola, soy Tomás González! Tengo 23 años me encanta el desarrollo web especializado en Front-end con React. Mi camino en el mundo de la programación comenzó como autodidacta y desde entonces he estado en constante búsqueda de conocimientos y desafíos.",
 
-      "In addition to my Front-end experience, I am exploring the world of Back-end, where I use technologies such as Node.js, SQL and MongoDB to create robust and scalable solutions. This diversity of skills allows me to tackle projects from user interface to server logic.",
+      "Además de mi experiencia en Front-end, estoy explorando el mundo del Back-end, donde utilizo tecnologías como Node.js, SQL y MongoDB para crear soluciones robustas y escalables. Esta diversidad de habilidades me permite abordar proyectos desde la interfaz de usuario hasta la lógica del servidor.",
 
-      "My passion for learning led me to complete specialized bootcamps and I am currently pursuing a university degree to continue deepening my knowledge. I love facing new challenges and learning new technologies to stay up to date in a constantly evolving field.",
+      "Mi pasión por aprender me llevó a realizar bootcamps especializados y actualmente estoy cursando una carrera universitaria para seguir profundizando mis conocimientos. Me encanta afrontar nuevos retos y aprender nuevas tecnologías para mantenerme al día en un campo en constante evolución.",
 
-      "But my interest is not limited only to code. I also like design and user experience (UX/UI). I enjoy creating designs for my projects using tools like Photoshop and Figma. This combination of technical and creative skills allows me to offer complete and attractive solutions to my clients.",
+      "Pero mi interés no se limita sólo al código. También me gusta el diseño y la experiencia de usuario (UX/UI). Disfruto creando diseños para mis proyectos usando herramientas como Photoshop y Figma. Esta combinación de habilidades técnicas y creativas me permite ofrecer soluciones completas y atractivas a mis clientes.",
 
-      "My goal is to continue growing as a professional, facing exciting challenges and collaborating with passionate people. Through my portfolio, I hope to share my journey, my achievements, and my passion for technology and design.",
+      "Mi objetivo es seguir creciendo como profesional, afrontando retos apasionantes y colaborando con gente apasionada. A través de mi portafolio, espero compartir mi viaje, mis logros y mi pasión por la tecnología y el diseño.",
     ],
-    currentProject: "Casino Full-stack",
-    currentProjectUrl: "https://casino-frontend-two.vercel.app/",
+    currentProject: "Consumiendo APIS con REACT y TS",
+    currentProjectUrl: "https://github.com/tomigonzalez/React-Ts",
   },
   experience: [
     {
